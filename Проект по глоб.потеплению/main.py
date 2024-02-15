@@ -38,4 +38,4 @@ async def visualize(ctx):
     chart = visualize_data()
     await ctx.send(file=discord.File(chart, 'climate_data.png'))
 
-bot.run('MTEzNDIxMTQ3OTUxMjU1OTc2Ng.GiQegb.TlRaEN66XVlmedyATHTqgn09-lWDx766n9I4wU')
+bot.run('')
