@@ -1,1 +1,1 @@
-('MTEzNDIxMTQ3OTUxMjU1OTc2Ng.GiQegb.TlRaEN66XVlmedyATHTqgn09-lWDx766n9I4wU')
+('Токен для бота')
